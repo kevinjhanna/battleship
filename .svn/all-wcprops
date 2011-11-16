@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/pi-2011-2/!svn/ver/2/
+END
+tematicas.dat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/pi-2011-2/!svn/ver/2/tematicas.dat
+END
+batallaNavalBack.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/pi-2011-2/!svn/ver/2/batallaNavalBack.c
+END
+loadgame.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/pi-2011-2/!svn/ver/2/loadgame.c
+END
+wherebomb.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/pi-2011-2/!svn/ver/1/wherebomb.c
+END
+freeGame.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/pi-2011-2/!svn/ver/1/freeGame.c
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/pi-2011-2/!svn/ver/2/load.c
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/pi-2011-2/!svn/ver/1/random.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/pi-2011-2/!svn/ver/2/main.c
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/pi-2011-2/!svn/ver/1/random.h
+END
+loadthemes.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/pi-2011-2/!svn/ver/2/loadthemes.c
+END
+saveGame.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/pi-2011-2/!svn/ver/1/saveGame.c
+END
+initializeGame.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/pi-2011-2/!svn/ver/2/initializeGame.c
+END
+batallaNavalFront.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/pi-2011-2/!svn/ver/2/batallaNavalFront.c
+END
+partidaGuardada
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/pi-2011-2/!svn/ver/2/partidaGuardada
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/pi-2011-2/!svn/ver/1/makefile
+END
+prototypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/pi-2011-2/!svn/ver/2/prototypes.h
+END
